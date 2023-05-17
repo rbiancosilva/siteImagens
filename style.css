@@ -80,7 +80,7 @@ li {
     list-style-type: none;
     position: relative;    
     overflow-y: hidden;
-    max-height: 240px;
+    max-height: 220px;
 }
 
 img {
